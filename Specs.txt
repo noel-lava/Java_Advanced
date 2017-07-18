@@ -1,6 +1,6 @@
 (aaa,bb),(aaa,aee) -> aaabb, aaaaee -> (aaa, aee),(aaa,bb)
 (123,-0-),(,,a,sda) -> 
-(0(),asa),(---,   )
+(0,asa),(---,xxd)
 
 *search: a
 output: (0,0) - 3 instance in key
@@ -18,5 +18,4 @@ output: (0,0) - 3 instance in key
 system generated pairs.
 
 [NOTE]
-*No static methods
-
+*No static methodz
