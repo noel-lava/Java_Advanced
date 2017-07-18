@@ -1,0 +1,22 @@
+(aaa,bb),(aaa,aee) -> aaabb, aaaaee -> (aaa, aee),(aaa,bb)
+(123,-0-),(,,a,sda) -> 
+(0(),asa),(---,   )
+
+*search: a
+output: (0,0) - 3 instance in key
+		(1,1) - 1 instance in key
+		(1,1) - 1 instance in value
+		
+*edit: index
+[1] key [2] value [3] both
+
+*sort: 
+
+*add: num of columns/ insert pairs
+
+*reset: row/col number
+system generated pairs.
+
+[NOTE]
+*No static methods
+
